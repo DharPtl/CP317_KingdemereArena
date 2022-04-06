@@ -60,6 +60,9 @@ cd ./CP317_KingdemereArena
 ```
 Otherwise you can just go to Visual Studio Code Press 'File' -> 'Open Folder' and open the repo folder.
 
+### Switching Screens
+
+
 
 ### IOS Simulator. (Optional Recommended)
 
