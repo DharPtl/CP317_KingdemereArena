@@ -84,7 +84,10 @@ Once the project is open on the IDE Environment , In order to open up an IOS Sim
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/77247670/161883678-34d6047b-78c9-4088-9482-a021598a7b1c.png">
 
+As shown in the picture above to run it on the IOS Simulator we have configured, all you have to do is run the following command in the terminal within the location of your repository.
 
-
-
+```
+ - npm start
+```
+It should then allow you to open it up on your web browser by pressing 'W' and to 'i" to open it up within the simulator as shown in the screenshot above.
 
