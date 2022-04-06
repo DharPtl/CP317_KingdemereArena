@@ -6,8 +6,8 @@ Group Members:
 - Daniel Faseyi (190850640)
 - Dharmik Patel (180343800)
 - Jagnoor Nijjar (190485190)
-- Adil Nawaz ()
-- Stephanie Chan ()
+- Adil Nawaz (190956140)
+- Stephanie Chan (190628550)
 - Aozhou Hao (183152440)
 
 
