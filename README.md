@@ -2,13 +2,13 @@
 Course: CP317
 
 Group Members:
-- Jonah Eichler ()
-- Daniel Faseyi ()
+- Jonah Eichler (190207850)
+- Daniel Faseyi (190850640)
 - Dharmik Patel (180343800)
-- Jagnoor Nijjar ()
+- Jagnoor Nijjar (190485190)
 - Adil Nawaz ()
 - Stephanie Chan ()
-- Aozhou Hao ()
+- Aozhou Hao (183152440)
 
 
 CP317, this is our booking application assignment
