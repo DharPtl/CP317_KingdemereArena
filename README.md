@@ -70,10 +70,11 @@ Once the project is open on the IDE Environment , In order to open up an IOS Sim
 
 
 2) Test out an IOS Simulator to see if it works go to the Xcode menu at the top left off your screen select 'Open Developer Tools' -> Simulator as shown in the screenshot provided below.
- ![image](https://user-images.githubusercontent.com/77247670/161879803-566c8006-b93e-41f0-b793-6693c5c5459f.png)
+  <img width="678" alt="image" src="https://user-images.githubusercontent.com/77247670/161879803-566c8006-b93e-41f0-b793-6693c5c5459f.png">
  
 3) Then go to 'File' -> 'Open Simulator' -> 'IOs 15.4' and you can select any of the devices of your choice.
- ![image](https://user-images.githubusercontent.com/77247670/161880166-4864cdc4-c3ff-4bed-bd73-249da147d0a5.png)
+   
+    <img width="678" alt="image" src="https://user-images.githubusercontent.com/77247670/161880166-4864cdc4-c3ff-4bed-bd73-249da147d0a5.png">
  
  4) Once you have set your default simulation device. You can now go to the terminal in your programming environment and open the repository on your Simulator. 
 
