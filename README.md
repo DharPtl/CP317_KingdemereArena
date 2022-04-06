@@ -1,4 +1,16 @@
 # CP317_KingdemereArena
+Course: CP317
+
+Group Members:
+- Jonah Eichler ()
+- Daniel Faseyi ()
+- Dharmik Patel (180343800)
+- Jagnoor Nijjar ()
+- Adil Nawaz ()
+- Stephanie Chan ()
+- Aozhou Hao ()
+
+
 CP317, this is our booking application assignment
 
 # Introduction
@@ -12,7 +24,7 @@ CP317, this is our booking application assignment
 
 ### Setting up your IDE
 
-1.) Install the IDE of your choice. In our tutorial we are going to be using VSCode.
+1.) Install the IDE of your choice. In our tutorial we are going to be using Visual Studio Code.
    Go to https://code.visualstudio.com/download and download it for your respective system.
    
  ### Setting up React Native Environment  
@@ -23,7 +35,32 @@ CP317, this is our booking application assignment
 
 Now you are going to install and setup the React Native environment to do so go to the following link https://reactnative.dev/docs/environment-setup and follow the instructions on your PC terminal. (Make sure you have your IDE closed otherwise you will get an error.)
 
+### Opening the Github Repo in your Environment
 
+Now that you have your IDE Installed along with React Native Environment setup. You can now open the Github repo in your own Environment. 
+
+Firstly , Open up the terminal in your computer as administrator and type the following command: 
+```
+$ git clone {the url to the GitHub repo goes here}
+```
+
+Then go to the directory your downloaded repository is stored in using the ``` Cd ``` commands. 
+For example on Mac:  
+```
+cd desktop
+cd CP317_KingdemereArena 
+```
+For Example on Windows:
+```
+cd destkop
+cd ./CP317_KingdemereArena
+
+```
+
+
+### IOS Simulator
+
+Once the project is open on the IDE Environment , 
 
 
 
