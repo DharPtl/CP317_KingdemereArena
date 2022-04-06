@@ -16,7 +16,7 @@ Group Members:
 
 This repository contains our code files for our Kingdemere Arena Ice Hockey Rental Application in react native for CP317. This repository is made up from React Native and Javascript components. To accommodate all the functionalities of our application, we implemented a log-in program, Calendar, and review. We used VS code as our primary IDE and imported React and Logo classes as well as our Customer Button and Input classes. 
 
-Important Note: Due to time constraints there are alot of missing functions , features and compatability issues we did not get to , especially with the troubles of setting up the simulator and libraries and frameworks we had along the way. Additonaly, a folder Called Screenshots is provided and will contain examples of our different screens in case you can’t get it to run on your computer.
+Important Note: Due to time constraints there are alot of missing functions , features and compatability issues we did not get to , especially with the troubles of setting up the simulator and libraries and frameworks we had along the way. Additonaly, a folder Called CP317Screenshots is provided and will contain examples of our different screens in case you can’t get it to run on your computer.
 
 ## Tutorial
 
