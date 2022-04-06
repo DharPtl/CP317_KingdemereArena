@@ -33,7 +33,7 @@ CP317, this is our booking application assignment
 
  - First Make sure you have NodeJs installed on your computer. If you don't have it installed go to https://nodejs.org/en/ and download the LTS (16.4.2) or the Current version (17.8.0). 
 
-Now you are going to install and setup the React Native environment to do so go to the following link https://reactnative.dev/docs/environment-setup and follow the instructions on your PC terminal. (Make sure you have your IDE closed otherwise you will get an error.)
+- Now you are going to install and setup the React Native environment to do so go to the following link https://reactnative.dev/docs/environment-setup and follow the instructions on your PC terminal. (Make sure you have your IDE closed otherwise you will get an error.)
 
 ### Opening the Github Repo in your Environment
 
