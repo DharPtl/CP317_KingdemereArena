@@ -65,13 +65,13 @@ Otherwise you can just go to Visual Studio Code Press 'File' -> 'Open Folder' an
 The Kingdemere Arena has 7 different screens available to the user, in order to access each screen the user is required to change a single statement in the file App.js and this is neccarary as the screens are not connected to each other due to time constrainsts.  
 
 Below are the 7 statements that are gonna be used to switch the screen:
-SignInScreen
-SignUpScreen
-ConfirmEmailScreen
-ResetPasswordScreen
-ConfirmResetScreen
-CalenderScreen
-Review Screen
+- SignInScreen
+- SignUpScreen
+- ConfirmEmailScreen
+- ResetPasswordScreen
+- ConfirmResetScreen
+- CalenderScreen
+- Review Screen
 
 Example: 
 ![image](https://user-images.githubusercontent.com/102828378/161886146-ecaf806a-d61b-4e7e-8b49-117803e5cbcd.png)
