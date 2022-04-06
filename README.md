@@ -41,7 +41,7 @@ Now that you have your IDE Installed along with React Native Environment setup. 
 
 Firstly , Open up the terminal in your computer as administrator and type the following command: 
 ```
-$ git clone {the url to the GitHub repo goes here}
+$ git clone {https://github.com/YSaintL/CP317_KingdemereArena}
 ```
 
 Then go to the directory your downloaded repository is stored in using the ``` Cd ``` commands. 
