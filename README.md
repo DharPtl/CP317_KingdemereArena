@@ -62,6 +62,7 @@ Otherwise you can just go to Visual Studio Code Press 'File' -> 'Open Folder' an
 
 ### Switching Screens
 
+The Kingdemere Arena has 7 different screens available to the user, in order to access each screen the user is required to change a single statement in the file App.js 
 
 
 ### IOS Simulator. (Optional Recommended)
