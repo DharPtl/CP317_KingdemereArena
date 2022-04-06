@@ -11,9 +11,11 @@ Group Members:
 - Aozhou Hao (183152440)
 
 
-CP317, this is our booking application assignment
 
 # Introduction
+
+This repository contains our code files for our Kingdemere Arena Ice Hockey Rental Application in react native for CP317. This repository is made up from React Native and Javascript components. To accommodate all the functionalities of our application, we implemented a log-in program, Calendar, and review. We used VS code as our primary IDE and imported React and Logo classes as well as our Customer Button and Input classes. 
+
 
 
 ## Tutorial
