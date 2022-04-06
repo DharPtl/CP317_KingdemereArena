@@ -79,7 +79,7 @@ Once the project is open on the IDE Environment , In order to open up an IOS Sim
  
  4) Once you have set your default simulation device. You can now go to the terminal in your programming environment and open the repository on your Simulator. 
 
-
+<img width="678" alt="image" src="https://user-images.githubusercontent.com/77247670/161883678-34d6047b-78c9-4088-9482-a021598a7b1c.png">
 
 
 
